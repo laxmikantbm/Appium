@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-09T14:36:43 IST" name="Default suite" finished-at="2021-07-09T14:37:00 IST" duration-ms="17321">
+    <groups>
+    </groups>
+    <test started-at="2021-07-09T14:36:43 IST" name="Default test" finished-at="2021-07-09T14:37:00 IST" duration-ms="17321">
+      <class name="com.brillio.phone.RunCamera">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.brillio.phone.RunCamera@2bfc268b]" started-at="2021-07-09T14:36:43 IST" name="setup" finished-at="2021-07-09T14:36:57 IST" duration-ms="14251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testCalculator()[pri:0, instance:com.brillio.phone.RunCamera@2bfc268b]" started-at="2021-07-09T14:36:57 IST" name="testCalculator" finished-at="2021-07-09T14:37:00 IST" duration-ms="3019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCalculator -->
+      </class> <!-- com.brillio.phone.RunCamera -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
